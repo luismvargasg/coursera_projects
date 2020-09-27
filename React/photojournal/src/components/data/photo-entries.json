@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "Peru01.jpg",
+      "caption"  : "Tejedora",
+      "location" : "Chinchero, Perú - 2019"
+    },
+
+    {
+      "src"      : "Peru02.jpg",
+      "caption"  : "Terrazas Agrícolas",
+      "location" : "Perú - 2019"
+    },
+
+    {
+      "src"      : "hacedor.jpg",
+      "caption"  : "Aserrador",
+      "location" : "Medellín, Colombia - 2018"
+    },
+
+    {
+      "src"      : "gaitero.jpg",
+      "caption"  : "Gaitero",
+      "location" : "Ovejas, Colombia - 2018"
+    },
+
+    {
+      "src"      : "muelle.jpg",
+      "caption"  : "Muelle en el Circuito de playas",
+      "location" : "Lima, Perú - 2018"
+    },
+
+    {
+      "src"      : "maniqui.jpg",
+      "caption"  : "Maniquís en Moravia",
+      "location" : "Medellín, Colombia - 2018"
+    }
+  ]
+}
